@@ -1,4 +1,6 @@
-Written by Hunter Lannon
+Written by Hunter Lannon  
+
+This project serves as a reminder of how naive we all once were, and how much we've grown. This was my first graphical programming project after learning the basics of C++. 
 
 This is an abandoned clone of the world's most popular video game: Tetris. I implemented the tetris board, pieces, different 
 colors, row-deletion, and collision-perfect rotations before asking myself "Why am I doing this. I don't even like Tetris?!". 
@@ -21,4 +23,4 @@ simply run make to build, or use the pre-built executable (./Tetris) built on x6
 
 #The makefile as-is only works if you copy all of the subdir's contents into the root dir of this project
 
-This project serves as a reminder of how naive we all once were, and how much we've grown.
+

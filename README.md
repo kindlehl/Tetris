@@ -6,7 +6,7 @@ This is an abandoned clone of the world's most popular video game: Tetris. I imp
 colors, row-deletion, and collision-perfect rotations before asking myself "Why am I doing this. I don't even like Tetris?!". 
 Fork if ye dare.
 
-`$ make.`
+`$ make.`  
 `$ ./Tetris`
 
 ## __Dependencies__  
